@@ -1,0 +1,12 @@
+{
+  "name": "Neon Memory Match",
+  "short_name": "Memory",
+  "description": "Premium memory match game with themes, combos, and leaderboards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0b2e",
+  "theme_color": "#d946ef",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
